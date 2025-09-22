@@ -1,0 +1,2 @@
+# beautyexpert
+Subdomain Takeover
